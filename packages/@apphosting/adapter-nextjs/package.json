@@ -60,7 +60,7 @@
     "@types/mocha": "*",
     "@types/tmp": "*",
     "mocha": "*",
-    "next": "~14.0.0",
+    "next": "~16.2.0",
     "semver": "*",
     "tmp": "*",
     "ts-mocha": "*",
