@@ -60,12 +60,12 @@
     "@types/mocha": "*",
     "@types/tmp": "*",
     "mocha": "*",
-    "next": "~14.0.0",
+    "next": "~15.5.15",
     "semver": "*",
     "tmp": "*",
     "ts-mocha": "*",
     "ts-node": "*",
     "typescript": "*",
-    "verdaccio": "^5.30.3"
+    "verdaccio": "^6.5.2"
   }
 }
