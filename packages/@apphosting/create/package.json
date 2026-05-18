@@ -33,12 +33,22 @@
     ],
     "license": "Apache-2.0",
     "dependencies": {
-        "@inquirer/prompts": "^5.0.2",
+        "@angular-devkit/architect": "0.2102.11",
+        "@angular-devkit/build-angular": "21.2.11",
+        "@angular-devkit/core": "21.2.11",
+        "@angular/core": "21.2.13",
+        "@inquirer/prompts": "^8.4.3",
+        "@npmcli/arborist": "9.5.0",
         "@npmcli/promise-spawn": "^7.0.2",
+        "@sveltejs/kit": "2.60.1",
         "commander": "^11.1.0",
-        "giget": "^1.2.3",
+        "cookie": "1.1.1",
+        "giget": "^3.2.0",
+        "lerna": "9.0.7",
+        "next": "9.3.3",
         "ora": "^8.0.1",
-        "tslib": "^2.3.1"
+        "tslib": "^2.3.1",
+        "verdaccio": "6.7.1"
     },
     "devDependencies": {
         "@types/commander": "*",
